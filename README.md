@@ -1,15 +1,23 @@
-<h1 align="center">Hi 👋, I'm Xeniouska</h1>
-<h3 align="center">A passionate backend developer from Brussels</h3>
+<h1 align="center">Welcome to Xeniouska's profile page</h1>
+<h3 align="center"> A junior backend developer looking forward to learning and contributing to the Dev World.</h3>
+<br>
+<p>Hello, :wave: I'm @xeniouska! I just finished the web development bootcamp at Le Wagon in Brussels.</p>
 
-- 🔭 I’m currently working on **on my first personal porfolio project which will be a tinder like pf app for pets**
+:telescope: I've been gravitating towards the tech sector for the past few years, first creating websites using webdesign packages, then popularising the technical inputs of a blockchain project in participating in the writing of its whitepaper and finally facilitating the development of IT answers to meet the needs of multiple types of users for a professional training platform.
 
-- 🌱 I’m currently learning **Ruby & Rails**
+:heartbeat: Passionate about apps, their architectures and functionality, I'm happy to finally move to the **backend** side.
 
-- 👯 I’m looking to collaborate on **on backend projects using Ruby or Python**
+:computer: I'm proficient in the following programming languages and frameworks: **Ruby and Ruby on Rails, SQL, HTML, CSS and JavaScript.**
 
-- 🤝 I’m looking for help with **with Ruby for now**
+🤓 I'm still training myself by first deepening my knowledge of **Ruby and Rails** and then continuing with **Python**. I plan to take the Harvard CS 50 course very soon. Python interests me a lot for the machine learning technology.
 
-- 📫 How to reach me **xeniouska.ma@gmail.com**
+👯 I look forward to collaborating on intellectually and humanly stimulating projects and to continuing to learn from other developers and to participate in the development of interesting projects.
+
+:cherry_blossom: In my free time, I like to walk in the forest, cook Yotam Ottolenghi's recipes, knit with friends, listen to music and watch documentaries.
+
+📫 You can contact me by email at **xeniouska.ma@gmail.com** or on <a href="https://linkedin.com/in/xeniouska ma" target="blank">**Linkedin**</a>. 
+I look forward to sharing with you on any project, idea or collaboration.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

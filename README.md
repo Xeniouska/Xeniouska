@@ -24,6 +24,7 @@ I look forward to sharing with you on any project, idea or collaboration.
 </p>
 
 <h3 align="left">Last Certificates:</h3>
+<p><img src="https://github.com/Xeniouska/Xeniouska/assets/115425494/5449c916-bb73-4bde-b410-881fce3e516d" alt="Certificate of Completion for Le Wagon Bootcamp in Web Development" height="60"></p>
 <p><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby" width="60" height="60"></a></p>
 
 <h3 align="left">Languages and Tools:</h3>

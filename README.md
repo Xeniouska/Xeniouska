@@ -24,13 +24,18 @@ I look forward to sharing with you on any project, idea or collaboration.
 </p>
 
 <h3 align="left">Last Certificates:</h3>
+<ul>
+  <li>
+    <h5> Web Development Bootcamp at Le Wagon, Brussels</h4>
+    <p><img src="https://github.com/Xeniouska/Xeniouska/assets/115425494/5449c916-bb73-4bde-b410-881fce3e516d" alt="Certificate of Completion for Le Wagon Bootcamp in Web Development" height="60"></p>
+  </li>
 
-<h4> Web Development Bootcamp at Le Wagon, Brussels</h4>
-<p><img src="https://github.com/Xeniouska/Xeniouska/assets/115425494/5449c916-bb73-4bde-b410-881fce3e516d" alt="Certificate of Completion for Le Wagon Bootcamp in Web Development" height="60"></p>
-
-<h4> "Learn Enough [Command Line, Text Editor, Ruby and Ruby on Rails] To Be Dangerous", online teaching</h4>
-<p><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby" width="60" height="60"></a></p>
-
+  <li>
+    <h5> "Learn Enough [Command Line, Text Editor, Ruby and Ruby on Rails] To Be Dangerous", online teaching</h4>
+    <p><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/command-line-tutorial.svg" alt="Certificate of Completion for Learn Enough Command Line" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/text-editor-tutorial.svg" alt="Certificate of Completion for Learn Enough Text Editor" width="60" height="60"></a><a href="https://www.learnenough.com/certificates/Xeniouska"><img src="https://www.learnenough.com/certificates/Xeniouska/ruby-tutorial.svg" alt="Certificate of Completion for Learn Enough Ruby" width="60" height="60"></a></p>
+  </li>
+</ul>
+  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a></p>
 
